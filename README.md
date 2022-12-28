@@ -17,7 +17,7 @@ Brief:
 ->HandTrackingModule.py is actually a class with functions like hand-landmark detector, fingers-up check and much more. We have used an instance(detector) from this  class in our main program.
 ->Index finger tip's landmark is used to draw on the canvas.
 
-->The steps and tacks have been explicitly mentioned in the comments of the code.
+
 
 
 
